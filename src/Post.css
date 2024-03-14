@@ -1,0 +1,6 @@
+.box{
+    border: 3px solid purple;   
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+}
